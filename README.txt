@@ -27,11 +27,11 @@ Kör programmet
 
 Mac:
 
-	cd ~/Desktop/UAV_Cue_App
+	cd ~/Desktop/UAV_Cue_App-main
 
 Windows:
 
-	cd Desktop\UAV_Cue_App
+	cd Desktop\UAV_Cue_App-main
 
 	3.	Starta programmet:
 

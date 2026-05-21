@@ -35,10 +35,10 @@ Windows:
 
 	3.	Starta programmet:
 
-	python uav_cue_app_audio_timed.py
+	python3 "uav_cue_app_audio_timed.py"
 Eller
  
-	python uav_cue_app_timed.py
+	python3 "uav_cue_app_timed.py"
 
 
 ⸻
